@@ -4,10 +4,23 @@
 </head>
 <body>
     <h1 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: #954;"><center>Jastip by onyoursun_</center></h1>
-    <h2><center>For The Dream Show 3</center></h2>
-<center><img src="gambar 1.jpg" style="height: 75%;"</center>
+    <h2><center>Open Coming Soon</center></h2>
+    <center><img src="gambar percobaan 1.jpg" style="height: 75%;"</center>
     <h3 style="font-size: x-large; font-family: monospace;">NCTzens, this is for you!</h3>
-    <p style=" background-color: rgb(215, 255, 196);">Let's walk slowly enjoying every step of the journey</p>
+    <p style="font-size: larger;">Let's walk slowly enjoying every step of the journey</p>
+    <p style="font-size: x-large; background-color: rgb(95, 255, 207);">Let's watch the music video of Best Friend Ever!</p>
+    <iframe width="850" height="500" src="https://www.youtube.com/embed/p8lbdZtjWAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     
+    <h1>Belajar Tabel</h1>
+    <table>
+        <tr>
+            <td>Name</td>
+            <td>Birth</td>
+            <td>Nationality</td>
+            <td>Position</td>
+        </tr>
+    </table>
+    <a href="https://www.youtube.com/NCTDREAM">youtube</a>
+    <a href="Belajar 2.html">Belajar Candy</a>
 </body>
 </html>
