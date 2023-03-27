@@ -1,0 +1,98 @@
+<html lang="en">
+<head>
+    <title>LATIHAN CSS</title>
+    <link rel="stylesheet" href="coba.css">
+    <style>
+        *{
+            margin: 5px;
+            padding: 10px;
+            box-sizing: border-box;
+            height: 100%;
+        }
+        body{
+            display: flex;
+            flex-direction: column;
+            background-color: aquamarine;
+        }
+        header{
+            background-color: grey;
+            font-style: initial;
+            font-size: 100%;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            display: flex;
+            flex: 2;
+            justify-content: space-between;}
+        main{
+            background-color: cornflowerblue;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-style: normal;
+            display: flex;
+            flex:15cm}
+        section{
+            display: flex;
+            background-color: yellow;
+            font-style: italic;
+            height: 9cm;
+            width: 90%;
+            column-gap: 8px;
+        }
+        aside{
+            background-color: burlywood;
+            display: flexbox;
+            width: 4cm;
+        }
+        article{
+            background-color: rgb(221, 155, 124);
+            width: 9cm;
+        }
+        footer{
+            background-color: grey;
+            font-style: initial;
+            font-size: 200%;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            display: flex;
+            flex: 2;
+        }
+        img{
+            height: 4cm;
+            float: right;
+        }
+        p{
+            text-align: left;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-style: normal;
+        }
+        
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>HEADER</h1>
+        <nav>
+            <a href="Task 1.html">Menu</a>
+            <a href="Search.html">Search</a>
+        </nav>
+    </header>
+    <main>
+        <aside> Menu
+        <p>
+            <a href="#">Travelling</a>
+            <br>
+            <a href="#">Food</a>
+            <br>
+            <a href="#">Daily</a>
+        </p>
+        </aside>
+        <section>
+            <article>Travelling
+                <img src="tumblr 4.jpg" alt="">
+                <p>Sebuah perjalanan yang dilakukan sebagai penyembuhan diri, pencarian inspirasi, dan mengagumi ciptaan Tuhan. Perjalanan ini akan diceritakan melalui tulisan dan dokumentasi sebagai memori untuk kenangan.</p>
+            </article>
+            <article>Food</article>
+            <article>Daily</article>
+        </section>
+    </main>
+    <footer>FOOTER</footer>
+</body>
+</html>
