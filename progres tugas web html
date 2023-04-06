@@ -1,106 +1,145 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Learning by Travelling</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEKAWAN BEPERGIAN</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <nav>
         <div class="wrapper">
-            <div class="logo"><a href="">Travelling by Learning</a></div>
+            <div class="logo"><a href=''>Learning by Travelling</a></div>
             <div class="menu">
                 <ul>
                     <li><a href="#home">Home</a></li>
                     <li><a href="#places">Places</a></li>
                     <li><a href="#review">Review</a></li>
-                    <li><a href="#Traveller">Traveller</a></li>
+                    <li><a href="#travelers">Travelers</a></li>
+                    <li><a href="#partners">Partners</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
             </div>
         </div>
     </nav>
     <div class="wrapper">
-        <!--home-->
-        <section id="Home">
-            <img src="buat web.png" style="height: 25%;" width="50%"/>
+        <!-- untuk home -->
+        <section id="home">
+            <img src="sekawanbepergian logo.png" style="height: 50%;" width="50%"/>
             <div class="kolom">
-                <p class="deskripsi">Belajar</p>
-                <h2>Travelling makes you happy, but Learning makes you know</h2>
-                <p>Lorem ipsum dolor sit amet.</p>
-                <p><a href="" class="tbl-pink">Pelajari Lebih Lanjut</a></p>
+                <p class="deskripsi">Learning by Travelling from sekawanbepergian</p>
+                <h2>Get to know about us!</h2>
+                <p>Belajar dan wisata dapat menjadi kombinasi yang sangat bermanfaat bagi seseorang. Dengan belajar, seseorang dapat memperoleh pengetahuan dan keterampilan baru, sementara dengan wisata, seseorang dapat memperluas pandangan dunia dan mengalami pengalaman yang berbeda.</p>
+                <p> Ada banyak cara untuk menggabungkan belajar dan wisata. Beberapa contoh termasuk mengambil kursus atau pelatihan di tempat yang menarik seperti kota-kota besar atau daerah yang indah, mengunjungi museum atau situs bersejarah untuk belajar tentang budaya dan sejarah, atau bahkan melakukan perjalanan ke luar negeri untuk mempelajari bahasa atau budaya yang berbeda.</p>
+                <p>SEKAWANBEPERGIAN adalah platform yang tepat untuk mendapatkan informasi dan rekomendasi kegiatan berwisata dan belajar untuk pengalaman bermakna.</p>
+                <p><a href="" class="tbl-pink">Find More</a></p>
             </div>
         </section>
 
-        <!--places-->
-        <section id="Places">
+        <!-- untuk courses 1-->
+        <section id="places">
             <div class="kolom">
-                <p class="deskripsi">Daftar Tempat</p>
-                <h2>Kraton Yogyakarta</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut quaerat ex minima! Alias, minus dolore.</p>
-                <p><a href="" class="tbl-pink">Find More</a></p>
+                <center><p class="deskripsi">Tourism in Yogyakarta</p>
+                <h2>Historical and Cultural Tourism</h2>
+                <img src="Gambar Candi Prambanan.png" style="height: 35%;" width="40%;" />
+                <p>Wisata sejarah dan budaya merupakan jenis wisata yang populer di seluruh dunia. Jenis wisata ini biasanya dilakukan untuk mempelajari sejarah, budaya, dan keunikan suatu tempat. Beberapa contoh wisata sejarah dan budaya termasuk mengunjungi situs bersejarah seperti kuil, istana, benteng, atau museum, serta mengeksplorasi tradisi dan adat istiadat yang unik di suatu daerah.</p>
+                <p>Wisata sejarah dan budaya dapat memberikan pengalaman yang unik dan bermanfaat bagi wisatawan. Mereka dapat mempelajari sejarah suatu tempat, kebudayaan lokal, dan gaya hidup masyarakat setempat. Selain itu, wisata sejarah dan budaya juga dapat membantu meningkatkan kesadaran akan warisan budaya dan sejarah, serta mendorong pelestarian situs bersejarah dan warisan budaya yang penting.</p>
+                <p>Tentu dalam laman berikut ini, kalian dapat melihat daftar rekomendasi wisata sejarah dan budaya di Yogyakarta yang tentunya akan memberikan pengalaman luar biasa untuk dikunjungi.</p>
+                <p><a href="" class="tbl-biru">Find More</a></p></center>
             </div>
-            <img src="kraton1.jpg" alt="">
         </section>
 
-        <!--review-->
-        <section id="Review">
+        <!-- untuk courses 2-->
+        <section id="review">
             <div class="kolom">
-                <p class="deskripsi">Top Review in Yogyakarta</p>
-                <h2>Review</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut quaerat ex minima! Alias, minus dolore.</p>
-                <p><a href="" class="tbl-pink">Find More</a></p>
+                <center><p class="deskripsi">Tourism in Yogyakarta</p>
+                <h2>Our Review</h2>
+                <img src="Yogyakarta.jpg" style="height: 40%;" width="45%;" />
+                <p>Rekomendasi yang kami tulis akan kami ulas dalam laman berikutnya. Ulasan yang kami tulis berdasarkan dengan pengalaman kami dalam berkunjung ke tempat tersebut. Harapan kami, pengunjung dapat meyakinkan diri untuk berkunjung ke tempat yang kami rekomendasikan.</p>
+                <p>Tertarik berkunjung namun ragu? Temui ulasan menarik dari SEKAWANBEPERGIAN!</p>
+                <p><a href="" class="tbl-biru">Find More</a></p></center>
             </div>
-            <img src="buat review.jpg" style="width: 50%;">
         </section>
-    </div>
-        <!--tutor-->
-        <section id="tutors">
+
+        <!-- untuk travelers -->
+        <section id="travelers">
             <div class="tengah">
                 <div class="kolom">
-                    <p class="deskripsi">Our Top Tutors</p>
-                    <h2>Tutors</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, optio!</p>
+                    <p class="deskripsi">Tourism in Yogyakarta</p>
+                    <h2>Our Travelers</h2>
+                    <p>Kami adalah SEKAWANBEPERGIAN!</p>
                 </div>
 
                 <div class="tutor-list">
                     <div class="kartu-tutor">
                         <img src="Tutor 1.jpg"/>
-                        <p>Jean Adinata Ahmad</p>
-                    </div>
-                    <div class="kartu-tutor">
-                        <img src="Tutor 2.jpg"/>
-                        <p>Mahendra Christian</p>
+                        <p>Adinata Ahmad</p>
                     </div>
                     <div class="kartu-tutor">
                         <img src="Tutor 3.jpg"/>
                         <p>Jovan Akhal Raksi</p>
                     </div>
+                    <div class="kartu-tutor">
+                        <img src="Tutor 4.jpg"/>
+                        <p>Haikal Gautama</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="Tutor 5.jpg"/>
+                        <p>Jonathan Raven</p>
+                    </div>
                 </div>
             </div>
         </section>
 
-        <div id="contact">
-            <div class="wrapper">
-                <div class="footer">
-                    <div class="footer-section">
-                        <h3>Learning by Travelling</h3>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint, culpa!</p>
+        <!-- untuk partners -->
+        <section id="partners">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Learning by Travelling from SEKAWANBEPERGIAN</p>
+                    <h2>Partners</h2>
+                    <p>Kami ingin mengucapkan terima kasih atas kerja keras, dedikasi, dan kolaborasi yang luar biasa. Kami sangat berterima kasih atas kontribusi Anda dalam membantu kami mencapai tujuan dan visi bersama. Tanpa dukungan dan kerjasama Anda, pencapaian yang kami raih tidak akan sebesar ini. Kami berharap dapat terus bekerja sama dengan Anda untuk mencapai kesuksesan yang lebih besar di masa depan.</p>
+                </div>
+
+                <div class="partner-list">
+                    <div class="kartu-partner">
+                        <img src="pesona indo logo.png"/>
                     </div>
-                    <div class="footer-section">
-                        <h3>About Us</h3>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint, culpa!</p>
+                    <div class="kartu-partner">
+                        <img src="visit jogja logo.png"/>
                     </div>
-                    <div class="footer-section">
-                        <h3>Social</h3>
-                        <p><b>Youtube: </b>Learning by Travelling</p>
-                        <p><b>Instagram: </b>learntravel.id</p>
-                        <p><b>Twitter: </b>sekawanbepergian</p>
-                    </div>
+                    <div class="kartu-partner">
+                        <img src="traveloka logo.png"/>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <div id="contact">
+        <div class="wrapper">
+            <div class="footer">
+                <div class="footer-section">
+                    <h3>About Us</h3>
+                    <p>Sekawan yang suka menulis tentang pengalaman belajar dan bepergian</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Contact</h3>
+                    <p>Email: sekawanbepergian04@gmail.com</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Social</h3>
+                    <p><b>YouTube: </b>Sekawan Bepergian</p>
+                    <p><b>Instagram: </b>sekawanbepergian</p>
+                    <p><b>Twitter: </b>sekawanbepergian</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div id="copyright">
         <div class="wrapper">
-            &copy; 2023. <b>sekawanbepergian</b> All Rights Reserved.
+            &copy; 2023 <b>sekawanbepergian</b> All Rights Reserved.
         </div>
-
     </div>
+    
 </body>
-</html> 
+</html>
